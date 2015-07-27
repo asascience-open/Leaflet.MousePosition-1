@@ -1,0 +1,21 @@
+{
+  "name": "Leaflet.MousePosition",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lukecampbell/Leaflet.MousePosition",
+  "authors": [
+    "Luke Campbell <luke.s.campbell@gmail.com>"
+  ],
+  "description": "Leaflet.MousePosition is a simple mouse position control that you can drop into your leaflet map. It displays geographic coordinates of the mouse pointer, as it is moved about the map.",
+  "main": "src/L.Control.MousePosition.js",
+  "keywords": [
+    "Leaflet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
